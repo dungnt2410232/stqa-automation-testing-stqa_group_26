@@ -21,11 +21,13 @@ Sử dụng **Playwright + Python** để kiểm thử hệ thống Mượn sác
 | **Lớp**      | ICT2.012                     |
 | **Học kỳ**   | 2025 - 2026                  |
 
-| #   | MSSV      | Họ và tên            | Vai trò     |
-| 1   | 23BI14374 | Nguyễn Huy Quang     | Nhóm trưởng |
-| 2   | 2410232   | Nguyễn Tiến Dũng     | Thành viên  |
-| 3   | 23BI14020 | Nguyễn Phan Hồng Anh | Thành viên  |
-| 4   | 23BI14017 | Đặng Quang Nam Anh   | Thành viên  |
+| # | MSSV     | Họ và tên                     | Vai trò     |
+|---|----------|-------------------------------|-------------|
+| 1 | 23BI14374| Nguyễn Huy <br> Quang         | Nhóm trưởng |
+| 2 | 2410232  | Nguyễn Tiến <br> Dũng         | Thành viên  |
+| 3 | 23BI14020| Nguyễn Phan <br> Hồng Anh     | Thành viên  |
+| 4 | 23BI14017| Đặng Quang <br> Nam Anh       | Thành viên  |
+
 
 
 ---
